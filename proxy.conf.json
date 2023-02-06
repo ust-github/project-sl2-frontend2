@@ -1,0 +1,7 @@
+{
+    "/greetings": {
+        "target": "/project_sl2-backend2/api",
+        "secure": false,
+    	"changeOrigin": true
+    }
+}
